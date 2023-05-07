@@ -2,7 +2,7 @@
 
 👋 Olá! Meu nome é Lucas Rodrigues e sou Desenvolvedor Fullstack, com experiência em diversas tecnologias.
 
-<h6 id="#lucas-rodrigues-programador">Estou sempre aberto a novas oportunidades e para falar comigo é só clicar no link: 👉 https://linkme.bio/lucasrodriguesprogramador 👈</h6>
+<p id="#lucas-rodrigues-programador">Estou sempre aberto a novas oportunidades e para falar comigo é só clicar no link: 👉 <a href="https://linkme.bio/lucasrodriguesprogramador" >Meu link de contato</a> 👈</p>
 
 Desde 2017, trabalho com desenvolvimento e já participei de vários projetos de sucesso.
 
