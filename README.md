@@ -4,33 +4,52 @@
 
 <h6 id="#lucas-rodrigues-programador">Estou sempre aberto a novas oportunidades e para falar comigo é só clicar no link: 👉 https://linkme.bio/lucasrodriguesprogramador 👈</h6>
 
-> Desde 2017, trabalho com desenvolvimento e já participei de vários projetos de sucesso.
-> <br> Desenvolvi sistemas de imobiliárias, sales force, sistema de booking, entre outros.
-> <br> Tenho experiência em construir RESTful APIs e microserviços, além de otimizar o desempenho de aplicativos web e lidar com grandes volumes de dados.
+Desde 2017, trabalho com desenvolvimento e já participei de vários projetos de sucesso.
+
+Desenvolvi sistemas de imobiliárias, sales force, sistema de booking, entre outros.
+
+Tenho experiência em construir RESTful APIs e microserviços, além de otimizar o desempenho de aplicativos web e lidar com grandes volumes de dados.
 
 
-**Estou sempre em busca de aprimorar minhas habilidades 🧠 e aprender novas tecnologias. 💻 🚀**
+Estou sempre em busca de aprimorar minhas habilidades 🧠 e aprender novas tecnologias. 💻 🚀
 
-> Atualmente, estou disponível para novos projetos, mentorias e prefiro trabalhar remoto.
+👉 Atualmente, estou disponível para novos projetos, mentorias e prefiro trabalhar remoto.
+
+---
 
 #### 🔭 Atualmente estou trabalhando em:
-> 👉 Pacote javascript/typescript para injeção e inversão de dependências, DI e IOC (Inversion of Control) que logo estará disponível para download no NPM.
 
-> 👉 Também dou suporte ao meu pacote PHP que é utilizado em mais de 200 mil projetos! O 👉 [urameshibr/lumen-form-request](https://github.com/urameshibr/lumen-form-request) 👈
+✅ Pacote javascript/typescript para injeção e inversão de dependências, DI e IOC (Inversion of Control) que logo estará disponível para download no NPM.
+
+✅ Também dou suporte ao meu pacote PHP que é utilizado em mais de 200 mil projetos! O 👉 [urameshibr/lumen-form-request](https://github.com/urameshibr/lumen-form-request) 👈
+
+---
 
 #### 🌱 Atualmente estou aprendendo:
-> 👉 Typescript
+
+✅ Typescript
+
+---
 
 #### 👯 Estou procurando colaborar em projetos de:
-> 👉 Aplicações web, de preferência com Laravel e Vue.JS (mas sei me virar muito bem em outras stacks).
+
+👉 Aplicações web, de preferência com Laravel e Vue.JS (mas sei me virar muito bem em outras stacks).
+
+---
 
 #### 🙋 Estou disponível para novos projetos fixos, remoto ou freelancers.
 
+---
+
 ### 🤓 Um pouco sobre mim:
 
-> Gosto de gatos, eu tenho um chamado Mew (me inspirei no Pokémon!).
-> <br> Gosto de ajudar as pessoas, pra mim nunca tem tempo ruim e gosto de desenvolver soluções, sempre pensando na melhor entrega para o usuário.
-> <br> Meu hobby, além de estudar e programar, é caminhar, comer uma pizza com os amigos e jogar Dota 2.
+😽 Gosto de gatos, eu tenho um chamado Mew (me inspirei no Pokémon!).
+
+🚀 Gosto de ajudar as pessoas, pra mim nunca tem tempo ruim e gosto de desenvolver soluções, sempre pensando na melhor entrega para o usuário.
+
+😊 Meu hobby, além de estudar e programar, é caminhar, comer uma pizza com os amigos e jogar Dota 2.
+
+--- 
 
 ### 📫 Como entrar em contato comigo:
 
@@ -40,6 +59,7 @@ https://linkme.bio/lucasrodriguesprogramador
 > <br> 👉 https://lucasrodriguesprogramador.com.br/blog 👈
 > <br> Lá você vai encontrar ótimos artigos sobre desenvolvimento web com PHP e Javascript!
 
+---
 
 ### Algumas das minhas competências técnicas:
 
